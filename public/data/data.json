@@ -1,0 +1,12 @@
+{
+  "setSidebarItems": [
+    { "name": "Dashboard", "href": "/Home", "icon": "House" },
+    { "name": "Earnings", "href": "/Earnings", "icon": "DollarSign" },
+    { "name": "Settings", "href": "/Settings", "icon": "Settings" },
+    { "name": "Products", "href": "/Products", "icon": "ShoppingBag" },
+    { "name": "Orders", "href": "/Orders", "icon": "ShoppingCart" },
+    { "name": "Messages", "href": "/Messages", "icon": "Mail" },
+    { "name": "Customers", "href": "/Customers", "icon": "Users" },
+    { "name": "Notifications", "href": "/Notifications", "icon": "Bell" }
+  ]
+}

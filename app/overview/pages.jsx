@@ -4,6 +4,7 @@ import StatCard from "../../components/StatCard";
 import { DollarSign, ShoppingBag, SquareActivity, Users } from "lucide-react";
 import { motion } from "framer-motion";
 import SalesOverviewChart from "../../components/SalesOverviewChart";
+import CategoryDistributionChart from "../../components/CategoryDistributionChart";
 
 const pages = () => {
   return (
@@ -22,6 +23,7 @@ const pages = () => {
         </motion.div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           <SalesOverviewChart />
+          <CategoryDistributionChart />
         </div>
       </main>
     </div>

@@ -29,5 +29,12 @@
     { "name": "Home & Kitchen", "value": 300 },
     { "name": "Books", "value": 200 },
     { "name": "Sports", "value": 278 }
+  ],
+  "orders": [
+    { "name": "Pending", "value": 240 },
+    { "name": "Processing", "value": 456 },
+    { "name": "Shipped", "value": 139 },
+    { "name": "Delivered", "value": 980 },
+    { "name": "Cancelled", "value": 390 }
   ]
 }

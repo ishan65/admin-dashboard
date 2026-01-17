@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import SalesOverviewChart from "../../components/SalesOverviewChart";
 import CategoryDistributionChart from "../../components/CategoryDistributionChart";
 import OrderDistributionChart from "../../components/OrderDistributionChart";
+import ProductPerformanceChart from "../../components/ProductPerformanceChart";
 
 const pages = () => {
   return (
@@ -26,6 +27,7 @@ const pages = () => {
           <SalesOverviewChart />
           <CategoryDistributionChart />
           <OrderDistributionChart />
+          <ProductPerformanceChart />
         </div>
       </main>
     </div>

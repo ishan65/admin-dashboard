@@ -36,5 +36,14 @@
     { "name": "Shipped", "value": 139 },
     { "name": "Delivered", "value": 980 },
     { "name": "Cancelled", "value": 390 }
+  ],
+  "products": [
+    { "name": "Product A", "Revenue": 4000, "Retention": 2400, "Profit": 1600 },
+    { "name": "Product B", "Revenue": 3000, "Retention": 1398, "Profit": 1202 },
+    { "name": "Product C", "Revenue": 2000, "Retention": 9800, "Profit": 7800 },
+    { "name": "Product D", "Revenue": 2780, "Retention": 3908, "Profit": 1128 },
+    { "name": "Product E", "Revenue": 1890, "Retention": 4800, "Profit": 2910 },
+    { "name": "Product F", "Revenue": 2390, "Retention": 3800, "Profit": 1410 },
+    { "name": "Product G", "Revenue": 3490, "Retention": 4300, "Profit": 1090 }
   ]
 }
